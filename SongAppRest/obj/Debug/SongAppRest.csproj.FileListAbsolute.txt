@@ -1,0 +1,10 @@
+C:\Users\GAMOLO\Documents\SharpDevelop Projects\SongAppRest\bin\Debug\SongAppRest.exe.config
+C:\Users\GAMOLO\Documents\SharpDevelop Projects\SongAppRest\bin\Debug\SongAppRest.exe
+C:\Users\GAMOLO\Documents\SharpDevelop Projects\SongAppRest\bin\Debug\SongAppRest.pdb
+C:\Users\GAMOLO\Documents\SharpDevelop Projects\SongAppRest\bin\Debug\RestSharp.dll
+C:\Users\GAMOLO\Documents\SharpDevelop Projects\SongAppRest\bin\Debug\RestSharp.xml
+C:\Users\GAMOLO\Documents\SharpDevelop Projects\SongAppRest\obj\Debug\SongAppRest.csprojResolveAssemblyReference.cache
+C:\Users\GAMOLO\Documents\SharpDevelop Projects\SongAppRest\obj\Debug\SongAppRest.MainForm.resources
+C:\Users\GAMOLO\Documents\SharpDevelop Projects\SongAppRest\obj\Debug\SongAppRest.csproj.GenerateResource.Cache
+C:\Users\GAMOLO\Documents\SharpDevelop Projects\SongAppRest\obj\Debug\SongAppRest.exe
+C:\Users\GAMOLO\Documents\SharpDevelop Projects\SongAppRest\obj\Debug\SongAppRest.pdb
